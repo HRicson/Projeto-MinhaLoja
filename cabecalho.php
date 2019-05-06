@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Minha loja</title>
+    <link rel="shortcut icon" href="img/icon.png" />
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/bootstrap-theme.css" rel="stylesheet">
     <link href="css/loja.css" rel="stylesheet">
